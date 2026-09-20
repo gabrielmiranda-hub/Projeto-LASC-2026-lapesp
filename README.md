@@ -6,7 +6,7 @@ O projeto reune firmware, integracao com sensores e comunicacao para apoiar ativ
 
 ## Creditos
 
-Este projeto foi desenvolvido no contexto das atividades da LApESP, liga academica a qual o autor pertence.
+Este projeto foi desenvolvido no contexto das atividades da LAPESP, liga academica a qual o autor pertence.
 
 ## Tecnologias
 
