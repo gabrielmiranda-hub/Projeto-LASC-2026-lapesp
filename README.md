@@ -24,7 +24,7 @@ A pasta `Src` contem os arquivos-fonte (`.c`) do firmware. Nela esta o `main.c`,
 
 ## Creditos
 
-Este projeto foi desenvolvido no contexto das atividades da LApESP, liga academica a qual o autor pertence.
+Este projeto foi desenvolvido no contexto das atividades da LAPESP, liga academica a qual o autor pertence.
 
 ## Tecnologias
 
