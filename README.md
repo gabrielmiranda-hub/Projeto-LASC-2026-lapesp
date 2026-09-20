@@ -1,4 +1,4 @@
-# Dangaronpa
+# Prometheus I
 
 Projeto universitario de sistemas embarcados, desenvolvido para fins academicos e de pesquisa com um microcontrolador STM32.
 
